@@ -1,3 +1,8 @@
+/**
+ * Author: Shaoqian Zhou
+ * Date: Mar. 27th 2021
+ */
+
 int longestLeft;
 int longestRight;
 char * longestPalindrome(char * s){

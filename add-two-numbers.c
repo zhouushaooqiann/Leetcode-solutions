@@ -1,11 +1,13 @@
 /**
+ * Author: Shaoqian Zhou
+ * Date: Aug. 15th 2020
+ *
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
  *     struct ListNode *next;
  * };
  */
-
 
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
     // initialize the entry node of linklist sum (this pointer is preserved)

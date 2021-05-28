@@ -1,3 +1,8 @@
+/**
+ * Author: Shaoqian Zhou
+ * Date: Mar. 27th 2021
+ */
+
 int myAtoi(char * s){
     // get the sign
     int length = strlen(s);

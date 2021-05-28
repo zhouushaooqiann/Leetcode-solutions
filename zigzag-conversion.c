@@ -1,3 +1,8 @@
+/**
+ * Author: Shaoqian Zhou
+ * Date: Mar. 27th 2021
+ */
+
 char * convert(char * s, int numRows){
     // get the length of string
     int length = strlen(s);

@@ -1,4 +1,7 @@
 /**
+ * Author: Shaoqian Zhou
+ * Date: Mar. 31th 2021
+ *
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;

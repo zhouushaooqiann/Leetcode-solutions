@@ -1,3 +1,8 @@
+/**
+ * Author: Shaoqian Zhou
+ * Date: Mar. 27th 2021
+ */
+
 int reverse(int x){
     // array storing
     int digits[10];
